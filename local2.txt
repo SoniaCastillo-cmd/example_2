@@ -1,1 +1,2 @@
 Fichero 2 creado en Ubuntu
+ otra nueva linea
